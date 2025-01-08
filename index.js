@@ -64,11 +64,11 @@ function addDiv() {
   college2.style.color = "white";
   college2.style.display = "block";
   collegediv.append(college2);
-  name.innerHTML = "A.SHYAM VENKAT SAI";
+  name.innerHTML = "A.S.V.SAI";
   name.style.fontFamily = "calibri";
   name.style.fontSize = "20px";
   name.style.marginTop = "50px";
-  name.style.marginLeft = "150px";
+  name.style.marginLeft = "180px";
   div.append(name);
   branch.innerHTML = "B.Tech";
   branch.style.fontFamily = "calibri";
@@ -87,7 +87,7 @@ function addDiv() {
   mecdiv.style.height = "210px";
   mecdiv.style.width = "65px";
   mecdiv.style.marginLeft = "335px";
-  mecdiv.style.marginTop = "-194px";
+  mecdiv.style.marginTop = "-190px";
   mecdiv.style.borderBottomRightRadius = "10px";
   mecdiv.style.backgroundPosition = "right";
   mecdiv.style.backgroundRepeat = "repeat-y";
