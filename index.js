@@ -68,7 +68,7 @@ function addDiv() {
   name.style.fontFamily = "calibri";
   name.style.fontSize = "20px";
   name.style.marginTop = "50px";
-  name.style.marginLeft = "180px";
+  name.style.marginLeft = "205px";
   div.append(name);
   branch.innerHTML = "B.Tech";
   branch.style.fontFamily = "calibri";
